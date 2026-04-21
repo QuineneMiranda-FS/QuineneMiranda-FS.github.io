@@ -1,0 +1,50 @@
+---
+---
+/* Import Google Fonts */
+@import url('https://googleapis.com');
+
+@import "{{ site.theme }}";
+
+/* --- 1. FONTS --- */
+body {
+  font-family: 'Roboto', sans-serif; 
+  background-color: #121212;
+  color: #E0E0E0;
+}
+
+h1, h2, h3, #project_title {
+  font-family: 'Montserrat', sans-serif; 
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* --- 2. COLORS --- */
+#header_wrap {
+  background: linear-gradient(135deg, #0d0d0d 0%, #1a1a1a 100%);
+  border-bottom: 3px solid #00FF85; /* Neon accent line */
+}
+
+#project_title {
+  color: #00FF85 !important; /* Forces neon green for title */
+}
+
+a {
+  color: #1E90FF;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: #00FF85;
+  }
+}
+
+#main_content_wrap {
+  background: #121212;
+}
+
+code {
+  background: #1e1e1e;
+  color: #00FF85;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
