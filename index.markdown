@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Home
@@ -6,7 +5,7 @@ title: Home
 
 # Welcome to My Blog
 
-This is my corner of the internet. I'm using the **Architect** theme with Jekyll markdown on GitHub Pages to share my thoughts on coding, life, and everything in between.
+This is my corner of the internet. I'm using the **Architect** theme with Jekyll markdown on GitHub Pages for this Web Deployment Assignment.
 
 ### Latest Posts
 <ul>
