@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Blog
 
-This is my corner of the internet. I'm using the **Architect** theme with Jekyll markdown on GitHub Pages for this Web Deployment Assignment.
+This is my static blog. I'm using the **Architect** theme with Jekyll markdown on GitHub Pages for this Web Deployment Assignment.
 
 ### Latest Posts
 <ul>
