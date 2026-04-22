@@ -1,10 +1,22 @@
 ---
 layout: default
-title:  "Next Assignment Post 1"
+title:  "Keep it Fresh"
 date:   2026-04-20 19:50:21 -0100
 categories: blah blah blogging
 ---
-# Next Assignment Post 1
+# Tutorial Creation
+## Update of Blog for Assignment 2.6
 
-Deploying a blog is an exercise in patience. There's too many choices. 
-I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
+I had to create a tutorial for adding a component/library to work in a React project. 
+This was for my retake of the WDV229 Course (Because :chipmunk:s are evil.)
+
+The objectives for this tutorial were: 
+
+* Successfully research an existing library.
+* Implement libraries into your own code.
+* Explain how to use the library to other developers. 
+
+For the tutorial, I picked [Recharts](https://recharts.github.io/). It provides an enormous selection of graphs
+that users can integrate in their project. 
+
+![Example of Chart Available on ReCharts ](assets/images/chart.png)
