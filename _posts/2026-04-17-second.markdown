@@ -1,10 +1,20 @@
 ---
 layout: default
-title:  "The Second Post"
+title:  "Oracle"
 date:   2026-04-17 19:12:02 -0200
 categories: blah blah blogging
 ---
-# The Second Post
+# Oracle
+### Concerning?
 
-Deploying a blog is an exercise in patience. There's too many choices. 
-I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
+I heard recently that Oracle did another round of layoffs. I'm rather disturbed about that. We only had that one class, but I found databases really relaxing. I know that is likely not a common response/feeling in regards to databases. I know. 
+
+But I had plans to learn more database programs and skills in hopes of working towards a database position. Now, I'm thinking there may not be positions I could even apprentice into - especially since the highly skilled and experienced have been given the boot.
+
+Anyhow, if you haven't heard this is the summary of positions affected:
+
+* Development: Software Engineers, Developers, Site Reliability Engineers, Technical Analysts, User Experience Developers. 
+* Management: Product Managers, Program Managers, Product Developers, Senior Directors, Vice Presidents. 
+* Support & Operations: Customer Success Teams, QA Analysts. 
+
+
