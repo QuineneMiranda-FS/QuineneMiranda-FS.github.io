@@ -6,6 +6,18 @@ categories: blah blah blogging
 ---
 # Finding A Corner of the Internet
 
-Deploying a blog is an exercise in patience. There's too many choices. I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
+Deploying a blog is an exercise in patience. There's too many choices! I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. Okay, that's an exagerration, but still, it sure feels like that. 
 
+### The Repo (Github Repository)
+
+By now we can create a Repo with our eyes closed. What surprised me with the Repo creation was that I had to force myself to not hesitate to actually edit/add/delete the code and folders directly in the Repo. We have been told "Don't" and even though I know I'm not holding a local version, there's still that pause :scream: 
+
+### Building It (Gatsby, Astro, Jekyll)
+
+I tried using Gatsby and Astro. I liked the ease to build. I loved the pre-formed file setup. I did NOT like the editing. 
+I've since switched to utilizing Jekyll in GitHub Pages.
+
+### Showing it (Netliffy, GitHub Pages)
+
+When I was working with Gatsby and Astro I threw the site up on Netlify. After switching to Jekyll in GitHub Pages, I used GitHub's free hosting.
 
