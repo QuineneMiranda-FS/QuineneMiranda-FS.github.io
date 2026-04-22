@@ -19,4 +19,4 @@ The objectives for this tutorial were:
 For the tutorial, I picked [Recharts](https://recharts.github.io/). It provides an enormous selection of graphs
 that users can integrate in their project. 
 
-![Example of Chart Available on ReCharts ](../assets/images/chart.png)
+![Example of Chart Available on ReCharts ]({{ '/assets/images/chart.png' | relative_url }})
