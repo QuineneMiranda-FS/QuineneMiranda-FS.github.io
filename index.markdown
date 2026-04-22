@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to My Blog
 
-This is my static blog. I'm using the **Architect** theme with Jekyll markdown on GitHub Pages for this Web Deployment Assignment.
+This is my static blog. I'm (now) using the **Architect** theme with Jekyll markdown on GitHub Pages for this Web Deployment Assignment.
 
 ### Latest Posts
 <ul>
@@ -17,4 +17,4 @@ This is my static blog. I'm using the **Architect** theme with Jekyll markdown o
   {% endfor %}
 </ul>
 
-[View all posts]({{ "/archive" | relative_url }})
+
