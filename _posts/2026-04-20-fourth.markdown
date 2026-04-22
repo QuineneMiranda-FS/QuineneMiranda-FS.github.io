@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "Next Assignment Post 1"
+date:   2026-04-20 19:50:21 -0100
+categories: blah blah blogging
+---
+# Next Assignment Post 1
+
+Deploying a blog is an exercise in patience. There's too many choices. 
+I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
