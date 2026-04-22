@@ -13,4 +13,4 @@ You either have to change your membership level to account for the increased cos
 Decisions. Decisions.
 
 Here's a link for more info: 
-[Article from Devops] (https://devops.com/github-copilot-pulls-drawstring-on-tighter-developer-usage-limits/)
+[Article from Devops](https://devops.com/github-copilot-pulls-drawstring-on-tighter-developer-usage-limits/)
