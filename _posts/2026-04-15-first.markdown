@@ -4,6 +4,8 @@ title:  "Finding A Corner of the Internet"
 date:   2026-04-15 18:02:22 -0400
 categories: blah blah blogging
 ---
+# Finding A Corner of the Internet
+
 Deploying a blog is an exercise in patience. There's too many choices. I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
 
 
