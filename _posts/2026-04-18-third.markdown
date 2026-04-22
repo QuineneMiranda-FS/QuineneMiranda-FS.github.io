@@ -1,10 +1,16 @@
 ---
 layout: default
-title:  "Third Post"
+title:  "Copilot Is In Timeout"
 date:   2026-04-18 11:12:32 -0200
 categories: blah blah blogging
 ---
-# Third Post of the Blog
+# GitHub Restricts Copilot 
+## Pay ot Use? 
 
-Deploying a blog is an exercise in patience. There's too many choices. 
-I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
+I saw an article that because Copilot was overwhelming the infrastucture, GitHub put developer limits on using it. 
+The limits include session limits and weekly caps on usage. If your architecture uses Copilot, it will cost you. 
+You either have to change your membership level to account for the increased costs of use, or diminish how much it's used in your build.
+Decisions. Decisions.
+
+Here's a link for more info: 
+[Article from Devops] (https://devops.com/github-copilot-pulls-drawstring-on-tighter-developer-usage-limits/)
