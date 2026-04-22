@@ -10,7 +10,7 @@ Deploying a blog is an exercise in patience. There's too many choices! I think I
 
 ### The Repo (Github Repository)
 
-By now we can create a Repo with our eyes closed. What surprised me with the Repo creation was that I had to force myself to not hesitate to actually edit/add/delete the code and folders directly in the Repo. We have been told "Don't" and even though I know I'm not holding a local version, there's still that pause :scream: 
+By now we can create a Repo with our eyes closed. What surprised me with the Repo creation was that I had to force myself to not hesitate to actually edit/add/delete the code and folders directly in the Repo. We have been told "Don't" and even though I know I'm not holding a local version, there's still that pause :scream: emoji 
 
 ### Building It (Gatsby, Astro, Jekyll)
 
