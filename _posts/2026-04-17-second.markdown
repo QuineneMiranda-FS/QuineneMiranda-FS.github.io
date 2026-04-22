@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "The Second Post"
+date:   2026-04-17 19:12:02 -0200
+categories: blah blah blogging
+---
+# The Second Post
+
+Deploying a blog is an exercise in patience. There's too many choices. 
+I think I did more research for what to use to setup this blog, than I have for any other assignment we were given in this Web Development program. 
