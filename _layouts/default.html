@@ -36,22 +36,24 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-          <nav class="post-navigation">
+          {% unless page.url == "/" %}
+<nav class="post-navigation">
   <!-- Link to Home Page -->
   <a href="{{ site.baseurl }}/">Home</a>
 
   <!-- Previous Post Link -->
-  {% if page.previous.url %}
+  {% if page.previous %}
 
     | <a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>
   {% endif %}
 
   <!-- Next Post Link -->
-  {% if page.next.url %}
+  {% if page.next %}
 
     | <a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>
   {% endif %}
 </nav>
+{% endunless %}
         </section>
 
         <aside id="sidebar">
