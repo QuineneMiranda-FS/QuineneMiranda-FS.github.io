@@ -1,0 +1,31 @@
+---
+layout: default
+title:  "Working React Project"
+date:   2026-04-26 19:50:21 -0100
+categories: blah blah blogging
+---
+# Expat World Choices - A working React Project
+## Update of Blog for Assignment 3.6
+
+I finished up the React Project for WDV229. Technically, it just needs the code cleaned up. 
+There are additions I would like to make if time allows, but all things considered, I think it's a decent build. 
+
+This is what it looks like: 
+![Home Page]({{ '/assets/images/home.png' | relative_url }})
+![Advanced Search Page]({{ '/assets/images/search.png' | relative_url }})
+![Comparison Page]({{ '/assets/images/compare.png' | relative_url }})
+![Profile Page]({{ '/assets/images/profile.png' | relative_url }})
+
+I ran into Dependency Hell issues for the comparison page. I had originally wanted to use ReCharts, but I eventually gave up and switched to ChartJS. 
+
+I was able to integrate a database via MongoDB Atlas. I will need more time before I feel proficient in that, but it functions, so I consider it a win.
+![MongoDB Atals]({{ '/assets/images/db.png' | relative_url }})
+
+If I don't have time before this semester ends, I'd like to go back and add the following into the site: 
+
+* PushPins on map that display the count of most visited countries.
+* Add in Teleport to the Comparison page to allow for more robust (and visually appealing) comparisons (ie. Cost of Living Comparisons).
+* Figure out how to automatically carry over favorites of guest users to their user account if they register. 
+
+ 
+
