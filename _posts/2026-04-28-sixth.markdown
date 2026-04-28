@@ -1,0 +1,27 @@
+---
+layout: default
+title:  "JSON Web Tokens"
+date:   2026-04-28 16:20:01 -0400
+categories: blah blah blogging
+---
+# JSON Web Tokens
+## Update of Blog for Assignment 4.7
+
+I setup authentication in that last web project I built, but I used session based instead of JWT. 
+From what I researched, that was the best choice for a standard web app (that wasn't doing mobile and didn't have microservices).
+It's my undestanding that tokens are easier to manage than cookies in mobile environments so I understand the reasoning behind 
+using JWT for React Native. 
+
+The benefits of JWT: 
+1. Statelessness: Does not need to maintain session records in a central database; any service can validate the user’s identity.
+2. Offline/Intermittent Connetivity: Doesn't require a stable constant connecton.
+3. Reduced Server Load: User role/permissions stored in token.
+4. Cross Domain/API compatible
+
+![JWT Structure] ({{/assets/images/jwt.png | relative_url }})
+
+> Parts of JWT (Each part is a Base64Url encoded string): 
+> 1. Header: This part contains metadata about the token, such as the type of token (JWT) and the signing algorithm used.
+> 2. Payload: This is the core of the token and contains the claims—statements about an entity (typically the user) and additional data like expiration times.
+> 3. Signature: This part is used to verify that the sender is who they say they are and that the token hasn't been tampered with. 
+> - [Super Tokens] (https://supertokens.com/blog/oauth-vs-jwt)
