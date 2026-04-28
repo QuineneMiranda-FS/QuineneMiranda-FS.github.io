@@ -18,10 +18,10 @@ The benefits of JWT:
 3. Reduced Server Load: User role/permissions stored in token.
 4. Cross Domain/API compatible
 
-![JWT Structure] ({{/assets/images/jwt.png | relative_url }})
+![JWT Structure]({{'/assets/images/jwt.png | relative_url }})
 
 > Parts of JWT (Each part is a Base64Url encoded string): 
 > 1. Header: This part contains metadata about the token, such as the type of token (JWT) and the signing algorithm used.
 > 2. Payload: This is the core of the token and contains the claims—statements about an entity (typically the user) and additional data like expiration times.
 > 3. Signature: This part is used to verify that the sender is who they say they are and that the token hasn't been tampered with. 
-> - [Super Tokens] (https://supertokens.com/blog/oauth-vs-jwt)
+> -  [SuperTokens](https://supertokens.com/blog/oauth-vs-jwt)
