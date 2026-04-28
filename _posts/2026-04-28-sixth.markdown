@@ -17,8 +17,8 @@ The benefits of JWT:
 2. Offline/Intermittent Connetivity: Doesn't require a stable constant connecton.
 3. Reduced Server Load: User role/permissions stored in token.
 4. Cross Domain/API compatible
-
-![JWT Structure]({{'/assets/images/jwt.png | relative_url }})
+   
+![JSON Web Token ]({{ '/assets/images/jwt.png' | relative_url }})
 
 > Parts of JWT (Each part is a Base64Url encoded string): 
 > 1. Header: This part contains metadata about the token, such as the type of token (JWT) and the signing algorithm used.
